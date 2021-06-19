@@ -2,6 +2,7 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "jpoissonnier.vscode-styled-components",
-    "pkief.material-icon-theme"
+    "pkief.material-icon-theme",
+    "dsznajder.es7-react-js-snippets"
   ]
 }
